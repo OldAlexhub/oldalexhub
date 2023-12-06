@@ -1,5 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
-import React from "react";
+import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 const Layout = () => {
@@ -7,6 +7,12 @@ const Layout = () => {
 
   const userName = localStorage.getItem("name");
   const userRole = localStorage.getItem("role");
+
+  const [navbarOpen, setNavbarOpen] = useState(false);
+
+  const handleNavbarToggle = () => {
+    setNavbarOpen(!navbarOpen);
+  };
 
   const handleLogout = (e) => {
     e.preventDefault();
@@ -26,24 +32,16 @@ const Layout = () => {
           <Link className="navbar-brand" to="/">
             Old Alex Hub
           </Link>
-          <div>
-            {userName && (
-              <span className="navbar-text me-auto">Welcome {userName}</span>
-            )}
-          </div>
-
           <button
             className="navbar-toggler"
             type="button"
-            data-toggle="collapse"
-            data-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
+            onClick={handleNavbarToggle}
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-          <div className="collapse navbar-collapse" id="navbarNav">
+          <div
+            className={`collapse navbar-collapse ${navbarOpen ? "show" : ""}`}
+          >
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
                 <Link className="nav-link" to="/">
@@ -105,3 +103,4 @@ const Layout = () => {
 };
 
 export default Layout;
+
