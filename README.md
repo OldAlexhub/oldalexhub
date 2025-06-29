@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# 👋 Welcome to Mohamed Gad's GitHub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi, I'm **Mohamed Gad** — a Data Scientist, Full-Stack Developer, and AI Strategist blending machine learning with real-world impact.
 
-## Available Scripts
+🎓 **Master’s in Data Science** (Eastern University)  
+💼 **Mobility Services Data Manager** @ LYNX (Orlando, FL)  
+🧠 **Creator of Olahverse**, an ethical AI hiring platform  
+🔌 Building intelligent SaaS for transit, hiring, and decision-making
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Featured Projects
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### [🔍 TED Talk AI Summarizer](https://www.mohamedgad.com/projects/6860ca1b017b81b8aa42ee90)
+Summarizes full TED Talk transcripts using Hugging Face’s BART model and Streamlit UI.  
+AI-powered, accessible, and designed for both discovery and learning.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### [🔋 RangeKeeper (EV Battery SaaS)](https://www.mohamedgad.com/projects/684f1858136ea05f0f7e56a7)
+An AI-driven system for tracking and predicting EV battery performance using sensor data, geolocation, and battery health metrics.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Tech Stack
 
-### `npm run build`
+- **Languages**: Python, JavaScript, R, SQL  
+- **Frameworks**: MERN Stack, Flask, Streamlit  
+- **Data & AI**: Hugging Face, Scikit-learn, Transformers, Pandas, PyTorch  
+- **Visualization**: Plotly, ggplot2, Tableau, Excel  
+- **Deployment**: Docker, GitHub Actions, AWS (working toward MLS-C01)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🌐 Let's Connect
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 🌍 Website: [mohamedgad.com](https://www.mohamedgad.com)  
+- 🧠 LinkedIn: [linkedin.com/mohamedgad](https://www.linkedin.com/in/mohamed-gad-6b286b1b6/)
+- 🐍 GitHub: [github.com/OldAlexhub](https://github.com/OldAlexhub)  
+- 🧾 Blog & Articles: [Project writeups](https://www.mohamedgad.com/projects)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### ✨ Fun Fact
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I bridge operations, ethics, and AI. I believe the best technology solves **real human problems**.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+_Thanks for visiting!_
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
