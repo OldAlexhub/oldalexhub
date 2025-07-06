@@ -11,9 +11,11 @@ Hi, I'm **Mohamed Gad** — a Data Scientist, Full-Stack Developer, and AI Strat
 
 ## 🚀 Featured Projects
 
-### [🔍 TED Talk AI Summarizer](https://www.mohamedgad.com/projects/6860ca1b017b81b8aa42ee90)
-Summarizes full TED Talk transcripts using Hugging Face’s BART model and Streamlit UI.  
-AI-powered, accessible, and designed for both discovery and learning.
+
+
+### [🔍 FairSquare , AI-Powered Real Estate Price Prediction](https://www.mohamedgad.com/projects/6809aae51b2694498e61c474)
+FairSquare is an AI-powered real estate price prediction platform that leverages machine learning and scraped market data to estimate property prices in Egypt. 
+Built with a React frontend and a Flask backend, it helps users predict fair prices and discover similar listings instantly.
 
 ### [🔋 RangeKeeper (EV Battery SaaS)](https://www.mohamedgad.com/projects/684f1858136ea05f0f7e56a7)
 An AI-driven system for tracking and predicting EV battery performance using sensor data, geolocation, and battery health metrics.
