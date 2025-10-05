@@ -35,7 +35,7 @@ An AI-driven system for tracking and predicting EV battery performance using sen
 ## 🌐 Let's Connect
 
 - 🌍 Website: [mohamedgad.com](https://www.mohamedgad.com)  
-- 🧠 LinkedIn: [linkedin.com/mohamedgad](https://www.linkedin.com/in/mohamed-gad-6b286b1b6/)
+- 🧠 LinkedIn: [linkedin.com/mohamedgad](https://www.linkedin.com/in/mohamed-gad-msds-6b286b1b6/)
 - 🐍 GitHub: [github.com/OldAlexhub](https://github.com/OldAlexhub)  
 - 🧾 Blog & Articles: [Project writeups](https://www.mohamedgad.com/projects)
 
