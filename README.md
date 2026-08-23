@@ -3,22 +3,9 @@
 Hi, I'm **Mohamed Gad** — a Data Scientist, Full-Stack Developer, and AI Strategist blending machine learning with real-world impact.
 
 🎓 **Master’s in Data Science** (Eastern University)  
-💼 **Mobility Services Data Manager** @ LYNX (Orlando, FL)  
-🧠 **Creator of Olahverse**, an ethical AI hiring platform  
-🔌 Building intelligent SaaS for transit, hiring, and decision-making
+💼 **Sr Netword Success Manager** @ Big Star Transit, LLC (Orlando, FL)  
+🧠 **Creator of TaxiOps**, a transportation software ecosystem 
 
----
-
-## 🚀 Featured Projects
-
-
-
-### [🔍 FairSquare , AI-Powered Real Estate Price Prediction](https://www.mohamedgad.com/projects/6809aae51b2694498e61c474)
-FairSquare is an AI-powered real estate price prediction platform that leverages machine learning and scraped market data to estimate property prices in Egypt. 
-Built with a React frontend and a Flask backend, it helps users predict fair prices and discover similar listings instantly.
-
-### [🔋 RangeKeeper (EV Battery SaaS)](https://www.mohamedgad.com/projects/684f1858136ea05f0f7e56a7)
-An AI-driven system for tracking and predicting EV battery performance using sensor data, geolocation, and battery health metrics.
 
 ---
 
